@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Working with Links, Images, and Multimedia</title>
+</head>
+
+<body style="font-family: Arial; background-color: #f2f2f2;">
+
+    <h1>Working with Links, Images, and Multimedia</h1>
+
+    <hr>
+
+    <!-- LINKS -->
+    <h2>1. Links</h2>
+    <p><b>Usage:</b> Links are used to connect one webpage to another website or page.</p>
+    <p><b>Explanation:</b> When a user clicks a link, it opens another webpage.</p>
+    <p><b>Sample Activity:</b></p>
+    <a href="https://www.google.com" target="_blank">Visit Google</a>
+
+    <hr>
+
+    <!-- IMAGES -->
+    <h2>2. Images</h2>
+    <p><b>Usage:</b> Images are used to display pictures on a website.</p>
+    <p><b>Explanation:</b> Images help make the webpage more attractive and informative.</p>
+    <p><b>Sample Activity:</b></p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/512px-Placeholder_view_vector.svg.png"
+         alt="Sample Image" width="200">
+
+    <hr>
+
+    <!-- MULTIMEDIA -->
+    <h2>3. Multimedia</h2>
+    <p><b>Usage:</b> Multimedia is used to add videos or audio to a webpage.</p>
+    <p><b>Explanation:</b> Multimedia makes the website interactive for users.</p>
+    <p><b>Sample Activity:</b></p>
+
+    <video width="320" controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <hr>
+
+    <p>Created by: Harvey Brian Buco</p>
+
+</body>
+</html>
